@@ -1,2 +1,3 @@
 # ansible_role_chrome
-Ansible role for installing Chrome browser
+An Ansible role to install and configure Google Chrome browser
+
